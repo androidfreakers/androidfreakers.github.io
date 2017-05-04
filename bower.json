@@ -1,0 +1,20 @@
+{
+  "name": "github-pages",
+  "homepage": "https://github.com/androidfreakers/androidfreakers.github.io",
+  "authors": [
+    "Gagan Deep Singh <Gagandeep.singh@barco.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.1.4"
+  }
+}
